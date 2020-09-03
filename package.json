@@ -1,10 +1,10 @@
 {
-  "name": "z-draggable",
+  "name": "z-react-draggable",
   "version": "1.0.1",
   "description": "Draggable component.",
   "author": "zycio",
   "license": "MIT",
-  "repository": "zycio/z-draggable",
+  "repository": "zycio/z-react-draggable",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",

@@ -1,6 +1,6 @@
 {
-  "short_name": "z-draggable",
-  "name": "z-draggable",
+  "short_name": "z-react-draggable",
+  "name": "z-react-draggable",
   "icons": [
     {
       "src": "favicon.ico",

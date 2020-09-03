@@ -3,19 +3,19 @@
 > Draggable component.
 > Link to [demo](https://zycio.github.io/z-react-draggable/)
 
-[![NPM](https://img.shields.io/npm/v/z-draggable.svg)](https://www.npmjs.com/package/z-draggable) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/z-react-draggable.svg)](https://www.npmjs.com/package/z-react-draggable) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save z-draggable
+npm install --save z-react-draggable
 ```
 
 ## Usage
 
 ```tsx
 import React, { Component } from 'react'
-import { Draggable } from 'z-draggable'
+import { Draggable } from 'z-react-draggable'
 
 class Example extends Component {
   render() {
@@ -34,7 +34,7 @@ class Example extends Component {
 
 ```tsx
 import React, { Component } from 'react'
-import { Draggable } from 'z-draggable'
+import { Draggable } from 'z-react-draggable'
 
 class Example extends Component {
   render() {

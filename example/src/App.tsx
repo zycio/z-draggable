@@ -1,5 +1,5 @@
-import React from 'react'
-import { Draggable } from 'z-draggable'
+import React from 'react';
+import { Draggable } from 'z-react-draggable';
 import classes from './App.module.css';
 
 const App = () => {
