@@ -14,13 +14,36 @@ npm install --save z-draggable
 
 ```tsx
 import React, { Component } from 'react'
-
 import { Draggable } from 'z-draggable'
 
 class Example extends Component {
   render() {
     return (
       <Draggable>
+        <div>
+          my div
+        </div>
+      </Draggable>
+    )
+  }
+}
+```
+
+## Usage with initial position
+
+```tsx
+import React, { Component } from 'react'
+import { Draggable } from 'z-draggable'
+
+class Example extends Component {
+  render() {
+    const initialPosition = {
+      x: 100,
+      y: 200
+    };
+    
+    return (
+      <Draggable initialPosition={initialPosition}>
         <div>
           my div
         </div>

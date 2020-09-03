@@ -4,7 +4,7 @@ import classes from './App.module.css';
 
 const App = () => {
   return (
-    <Draggable>
+    <Draggable initialPosition={{ x: 100, y: 100 }}>
       <div className={classes.MyDiv}>
         MOVE ME
       </div>
