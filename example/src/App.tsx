@@ -1,6 +1,5 @@
 import React from 'react'
 import { Draggable } from 'z-draggable'
-import 'z-draggable/dist/index.css'
 import classes from './App.module.css';
 
 const App = () => {

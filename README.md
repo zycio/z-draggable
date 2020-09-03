@@ -15,12 +15,17 @@ npm install --save z-draggable
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'z-draggable'
-import 'z-draggable/dist/index.css'
+import { Draggable } from 'z-draggable'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return (
+      <Draggable>
+        <div>
+          my div
+        </div>
+      </Draggable>
+    )
   }
 }
 ```
