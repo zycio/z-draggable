@@ -1,8 +1,7 @@
 # z-draggable
 
 > Draggable component.
-
-Link to [demo](https://zycio.github.io/z-draggable/)
+> Link to [demo](https://zycio.github.io/z-draggable/)
 
 [![NPM](https://img.shields.io/npm/v/z-draggable.svg)](https://www.npmjs.com/package/z-draggable) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
